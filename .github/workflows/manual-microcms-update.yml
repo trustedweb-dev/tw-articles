@@ -21,4 +21,4 @@ jobs:
         token: ${{ secrets.IVAN_PAT }}
         repository: trustedweb-dev/tw-template
         event-type: update-microcms
-        client-payload: '{"ref": "${{ github.ref }}", "sha": "${{ github.sha }}"}'
+        client-payload: '{"ref": "refs/heads/ntt-30", "sha": "${{ github.sha }}"}'
