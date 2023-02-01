@@ -3,7 +3,7 @@ name: Manual or on PR merge microCMS update
 on:
   pull_request:
     branches: 
-      - develop
+      - ntt-30
     types:
       - closed
   workflow_dispatch:
