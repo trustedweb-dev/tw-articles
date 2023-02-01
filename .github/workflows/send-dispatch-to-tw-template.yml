@@ -1,0 +1,24 @@
+name: Send dispatch to tw-template
+
+on:
+  pull_request:
+    branches: 
+      - main
+    types:
+      - closed
+  workflow_dispatch:
+
+jobs:
+  sendDispatchToTwTemplate:
+    # if: ${{ github.event.pull_request.merged }} // uncomment this when disabling manual trigger
+    runs-on: ubuntu-latest
+    steps:
+    - run: |
+        echo Sending dispatch to repo-B to update microCMS
+    - name: Manual microCMS update Dispatch
+      uses: peter-evans/repository-dispatch@v2
+      with:
+        token: ${{ secrets.IVAN_PAT }}
+        repository: trustedweb-dev/tw-template
+        event-type: update-microcms
+        client-payload: '{"ref": "${{ github.ref }}", "sha": "${{ github.sha }}"}'
