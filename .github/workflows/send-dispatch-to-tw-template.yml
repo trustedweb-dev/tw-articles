@@ -3,7 +3,8 @@ name: Send dispatch to tw-template
 on:
   pull_request:
     branches: 
-      - main
+      - develop
+      - NTT-30
     types:
       - closed
   workflow_dispatch:
@@ -14,7 +15,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - run: |
-        echo Sending dispatch to repo-B to update microCMS
+        echo Sending dispatch to tw-template to update microCMS
     - name: Manual microCMS update Dispatch
       uses: peter-evans/repository-dispatch@v2
       with:
