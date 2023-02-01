@@ -4,7 +4,6 @@ on:
   pull_request:
     branches: 
       - develop
-      - NTT-30
     types:
       - closed
   workflow_dispatch:
