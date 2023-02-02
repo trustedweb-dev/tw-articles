@@ -3,7 +3,7 @@ name: Send dispatch to tw-template
 on:
   pull_request:
     branches: 
-      - NTT-30
+      - main
     types:
       - closed
   workflow_dispatch:
