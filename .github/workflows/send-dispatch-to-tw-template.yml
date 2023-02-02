@@ -9,12 +9,12 @@ on:
   workflow_dispatch:
 
 jobs:
-  sendDispatchToTwTemplate:
+  send_dispatch_to_tw_template:
     # if: ${{ github.event.pull_request.merged }} // uncomment this when disabling manual trigger
     runs-on: ubuntu-latest
     steps:
     - run: |
-        echo Sending dispatch to repo-B to update microCMS
+        echo Sending dispatch to tw-template to update microCMS
     - name: Manual microCMS update Dispatch
       uses: peter-evans/repository-dispatch@v2
       with:
