@@ -9,7 +9,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  send_dispatch_to_tw_template:
+  send-dispatch:
     # if: ${{ github.event.pull_request.merged }} // uncomment this when disabling manual trigger
     runs-on: ubuntu-latest
     steps:
