@@ -15,6 +15,7 @@ jobs:
     steps:
       - name: check user permission
         run: |
+          echo "Triggered by ${GITHUB_ACTOR}"
           allowed_users="${{ secrets.DEVELOPERS_AND_ADMIN }}"
           IFS=',' read -ra users <<< "$allowed_users"
           if [[ ! " ${users[@]} " =~ " ${GITHUB_ACTOR} " ]]; then
