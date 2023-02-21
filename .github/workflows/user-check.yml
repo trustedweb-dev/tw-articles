@@ -13,9 +13,6 @@ jobs:
   check-user-permission:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
-        with:
-          ref: ${{ github.event.client_payload.ref }}
       - name: check user permission
         run: |
           allowed_users="${{ secrets.DEVELOPERS_AND_ADMIN }}"
