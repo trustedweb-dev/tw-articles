@@ -1,0 +1,22 @@
+name: user-check
+
+on:
+  workflow_dispatch:
+
+jobs:
+  check-user-permission:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          ref: ${{ github.event.client_payload.ref }}
+      - name: check user permission
+        run: |
+          allowed_users="${{ secrets.DEVELOPERS_AND_ADMIN }}"
+          IFS=',' read -ra users <<< "$allowed_users"
+          if [[ ! " ${users[@]} " =~ " ${GITHUB_ACTOR} " ]]; then
+            echo "Error: You are not authorized"
+            exit 1
+          else
+            echo "OK"
+          fi
