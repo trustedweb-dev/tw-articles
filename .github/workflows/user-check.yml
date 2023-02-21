@@ -15,10 +15,10 @@ jobs:
     steps:
       - name: check user permission
         run: |
-          echo "Triggered by ${GITHUB_ACTOR}"
+          echo "Triggered by ${{ github.actor }}"
           allowed_users="${{ secrets.DEVELOPERS_AND_ADMIN }}"
           IFS=',' read -ra users <<< "$allowed_users"
-          if [[ ! " ${users[@]} " =~ " ${GITHUB_ACTOR} " ]]; then
+          if [[ ! " ${users[@]} " =~ " ${{ github.actor }} " ]]; then
             echo "Error: You are not authorized"
             exit 1
           else
