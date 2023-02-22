@@ -6,11 +6,10 @@ on:
       - main
     types:
       - closed
-  workflow_dispatch:
 
 jobs:
   send-dispatch:
-    # if: ${{ github.event.pull_request.merged }} // uncomment this when disabling manual trigger
+    if: ${{ github.event.pull_request.merged }}
     runs-on: ubuntu-latest
     steps:
     - run: |
