@@ -1,0 +1,17 @@
+name: Assign Code Owners as Reviewers
+on:
+  pull_request:
+    types: [opened]
+
+jobs:
+  assign-reviewers:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
+    - name: Assign reviewers
+      uses: peter-evans/add-pr-reviewers@v1
+      with:
+        reviewers: ${{ cat .github/CODEOWNERS }}
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
