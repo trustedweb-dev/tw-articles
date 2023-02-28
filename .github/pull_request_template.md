@@ -1,1 +1,1 @@
-Reviewers: @$(cat CODEOWNERS)
+
