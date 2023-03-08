@@ -17,7 +17,7 @@ jobs:
     - name: Manual microCMS update Dispatch
       uses: peter-evans/repository-dispatch@v2
       with:
-        token: ${{ secrets.IVAN_PAT }}
-        repository: trustedweb-dev/tw-template
+        token: ${{ secrets.TW_PAT }}
+        repository: ${{ vars.TW_TEMPLATE_REPOSITORY }}
         event-type: update-microcms
         client-payload: '{"ref": "${{ github.ref }}", "sha": "${{ github.sha }}"}'
