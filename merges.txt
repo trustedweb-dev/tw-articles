@@ -1,0 +1,466 @@
+commit 8d5ae39dc18320f4dc644667963d8e09e1a75445
+Merge: 8216cb8 e630df4
+Author: yns-ivan <115965226+yns-ivan@users.noreply.github.com>
+Date:   Wed Mar 29 11:02:26 2023 +0900
+
+    Merge pull request #115 from trustedweb-dev/monkey-test-1
+    
+    Update Boracay Island - A Paradise Destination for Beach Lovers_en.html
+
+commit 44504c6a75a8ff3e5cfed09dd72b8105ce491aee
+Merge: bee3853 a90fda7
+Author: yns-ivan <115965226+yns-ivan@users.noreply.github.com>
+Date:   Fri Mar 24 12:00:46 2023 +0900
+
+    Merge pull request #114 from trustedweb-dev/AJ-Testing-1
+    
+    Update no githubタイトル（日本語）_ja.html
+
+commit 5fbd6f3820b4ab7ca8e522e51f5d016596484b3d
+Merge: 33c8454 b370e1f
+Author: yns-ivan <115965226+yns-ivan@users.noreply.github.com>
+Date:   Thu Mar 9 16:32:08 2023 +0800
+
+    Merge pull request #108 from trustedweb-dev/Test-NTT-151-S3
+    
+    Update Youtube_ja.html
+
+commit 33c84547375427ce26417d9ad17c3168f989d485
+Merge: c4c32d5 02bc132
+Author: yns-ivan <115965226+yns-ivan@users.noreply.github.com>
+Date:   Thu Mar 9 16:21:07 2023 +0800
+
+    Merge pull request #107 from trustedweb-dev/Test-NTT-151-S2
+    
+    Update RENAME test-2_ja.html
+
+commit 62a7b5dddecaf6d26b54f990a7cbda592131bc8f
+Merge: dd8e220 9b6c435
+Author: yns-ivan <115965226+yns-ivan@users.noreply.github.com>
+Date:   Thu Mar 9 15:55:28 2023 +0800
+
+    Merge pull request #106 from trustedweb-dev/Test-NTT-151-S1
+    
+    Update and rename Building Your Own PC: A Comprehensive Guide to Cust…
+
+commit 7bf1d6a6c653d5dfceb1583e0ba1b266d206197b
+Merge: ffb00fa e588f72
+Author: yns-ivan <115965226+yns-ivan@users.noreply.github.com>
+Date:   Thu Mar 9 15:57:55 2023 +0900
+
+    Merge pull request #105 from trustedweb-dev/NTT-151-Test
+    
+    NTT-151-Test
+
+commit aae9ae4953db301991fef37976cc51829981bd43
+Merge: 37c2c4a 69877b5
+Author: yns-ivan <115965226+yns-ivan@users.noreply.github.com>
+Date:   Thu Mar 9 14:17:43 2023 +0900
+
+    Merge pull request #103 from trustedweb-dev/test-merge-1
+    
+    awd
+
+commit c51d77d9a342e43e7d5e69fa81bfec56a4b55ba7
+Merge: 3ef668d 3a87fc3
+Author: yns-ivan <115965226+yns-ivan@users.noreply.github.com>
+Date:   Mon Mar 6 17:33:07 2023 +0800
+
+    Merge pull request #100 from trustedweb-dev/Testing-Only-ntt145
+    
+    TestUpdate テストのみ_ja.html
+
+commit 5bc6214450682c68542291cfee3712ddc029719d
+Merge: 9d58564 8a4001a
+Author: yns-ivan <115965226+yns-ivan@users.noreply.github.com>
+Date:   Mon Mar 6 10:58:11 2023 +0900
+
+    Merge pull request #99 from trustedweb-dev/test-rename
+    
+    test
+
+commit c51196b2f2b038978b046955930c854badb3ca76
+Merge: 5b9650c 7498d69
+Author: Blance <blancessanchez30@gmail.com>
+Date:   Wed Mar 1 13:30:39 2023 +0800
+
+    Merge pull request #98 from trustedweb-dev/jumadiaoallan-patch-9
+    
+    Update 公開日時 February 28, 2023_ja.html
+
+commit 988f06f695658633de3e907098f6bfada9188f89
+Merge: 05f662a 999fdc5
+Author: yns-ivan <115965226+yns-ivan@users.noreply.github.com>
+Date:   Wed Mar 1 12:52:08 2023 +0900
+
+    Merge pull request #95 from trustedweb-dev/josephtinioYNS-patch-5
+    
+    Josephtinio yns patch 5
+
+commit 73e1ea33fefaeb401d66074c906c2f15f7d954bb
+Merge: 2306fb9 18097b6
+Author: yns-ivan <115965226+yns-ivan@users.noreply.github.com>
+Date:   Wed Mar 1 12:32:10 2023 +0900
+
+    Merge pull request #93 from trustedweb-dev/josephtinioYNS-patch-4
+    
+    Update 公開日時 February 28, 2023_ja.html
+
+commit 2306fb971147e9f1537823fdfb78c17deee925d7
+Merge: 2bc1030 3c23796
+Author: yns-ivan <115965226+yns-ivan@users.noreply.github.com>
+Date:   Wed Mar 1 12:24:43 2023 +0900
+
+    Merge pull request #92 from trustedweb-dev/josephtinioYNS-patch-3
+    
+    Update Published_at February 28, 2023_en.html
+
+commit 2bc1030f46eaf350ca8ab5cc90feece62e1aeb33
+Merge: 0460d7e dac8665
+Author: yns-ivan <115965226+yns-ivan@users.noreply.github.com>
+Date:   Wed Mar 1 12:16:26 2023 +0900
+
+    Merge pull request #91 from trustedweb-dev/josephtinioYNS-patch-3-update-try-demo
+    
+    Update Published_at February 28, 2023_en.html
+
+commit 44f5296d469815087a683ba31da473b0dc17b15b
+Merge: bf858c4 dff00dc
+Author: yns-ivan <115965226+yns-ivan@users.noreply.github.com>
+Date:   Tue Feb 28 15:20:31 2023 +0800
+
+    Merge pull request #86 from trustedweb-dev/Testing-Permissions-5
+    
+    Update Static Websites: Pros for Businesses and Developers in Today's…
+
+commit 7c47f558e8b8f772ec554bc0af3419a310e4c4a7
+Merge: b31f0bc db0c9b8
+Author: yns-ivan <115965226+yns-ivan@users.noreply.github.com>
+Date:   Mon Feb 27 20:02:22 2023 +0800
+
+    Merge pull request #78 from trustedweb-dev/test-merge
+    
+    test merge
+
+commit 5849c7e3572b1308867be332610f77bc2b184fab
+Merge: 5469ea7 bf5c697
+Author: yns-ivan <115965226+yns-ivan@users.noreply.github.com>
+Date:   Mon Feb 27 11:16:20 2023 +0800
+
+    Merge pull request #76 from trustedweb-dev/NTT-71-Retest-1
+    
+    Update Trend is false PT2_en.html
+
+commit 57388fbbbfe6b598977d9fd18cbc2275362a660c
+Merge: 618ec66 36a537a
+Author: yns-ivan <115965226+yns-ivan@users.noreply.github.com>
+Date:   Thu Feb 23 09:28:51 2023 +0800
+
+    Merge pull request #73 from trustedweb-dev/NTT-71-Testing-Only-1
+    
+    Update Title testing for NTT-71_en.html
+
+commit 7b7918eef953079d14f5684e0e5875f5d4c1bdd0
+Merge: b40ddc0 08177f9
+Author: Blance <blancessanchez30@gmail.com>
+Date:   Wed Feb 22 11:55:58 2023 +0800
+
+    Merge pull request #63 from trustedweb-dev/add-folder
+    
+    Add folder
+
+commit dd88d583449637efc2a304a310b47146e604e63a
+Merge: ab677bc b40ddc0
+Author: Blances Sanchez <blancessanchez30@gmail.com>
+Date:   Wed Feb 22 11:38:38 2023 +0800
+
+    Merge branch 'main' of github.com:trustedweb-dev/tw-articles
+
+commit ae869b4e9cf46dacd640821efdfa6b88df9586f0
+Merge: 1d99ddb 88c5212
+Author: Blance <blancessanchez30@gmail.com>
+Date:   Wed Feb 22 11:36:42 2023 +0800
+
+    Merge pull request #62 from trustedweb-dev/add-empty
+    
+    added empty file
+
+commit 1d99ddb2b3846adb9b944876755a0703a97d77fe
+Merge: 123b70a d0ee5b4
+Author: Blance <blancessanchez30@gmail.com>
+Date:   Wed Feb 22 11:32:43 2023 +0800
+
+    Merge pull request #61 from trustedweb-dev/delete-articles
+    
+    cleanup data
+
+commit bef3697137b6713e478d54d2c4a423699e86554c
+Merge: 04e115a e5aafb6
+Author: Adrian <101854328+AdrianYNS@users.noreply.github.com>
+Date:   Tue Feb 21 11:23:37 2023 +0800
+
+    Merge pull request #50 from trustedweb-dev/NTT-82-Testing-Scenario-2
+    
+    Ntt 82 testing scenario 2
+
+commit 04e115a0bf12498b58425b2d5eb64207a8bcd735
+Merge: e6964ae b90ac77
+Author: Adrian <101854328+AdrianYNS@users.noreply.github.com>
+Date:   Tue Feb 21 11:10:54 2023 +0800
+
+    Merge pull request #49 from trustedweb-dev/NTT-82-Testing-Scenario-1
+    
+    Update Permission Checking _en.html
+
+commit e6964aeed5bedad42be8e95e49ed4fbaf036d851
+Merge: fd3279b 2299a4a
+Author: josephtinioYNS <108106868+josephtinioYNS@users.noreply.github.com>
+Date:   Mon Feb 20 14:58:52 2023 +0800
+
+    Merge pull request #48 from trustedweb-dev/ntt-82-evidence-scenario-2
+    
+    Ntt 82 evidence scenario 2
+
+commit fd3279b1e490288933c54720617249cb04cec5b0
+Merge: ee10935 cefc400
+Author: josephtinioYNS <108106868+josephtinioYNS@users.noreply.github.com>
+Date:   Mon Feb 20 14:49:22 2023 +0800
+
+    Merge pull request #47 from trustedweb-dev/ntt-82-evidence-scenario-1
+    
+    Update Title-Allan_en.html
+
+commit ee10935c8f669cb882408f0160a734c3f135cb0b
+Merge: 3980044 10c32ca
+Author: josephtinioYNS <108106868+josephtinioYNS@users.noreply.github.com>
+Date:   Mon Feb 20 14:16:38 2023 +0800
+
+    Merge pull request #46 from trustedweb-dev/ntt-82-test-only-2
+    
+    Ntt 82 test only 2
+
+commit 3980044c97da9da7926394851a6c099d8782878a
+Merge: 837d7e0 305f2e5
+Author: josephtinioYNS <108106868+josephtinioYNS@users.noreply.github.com>
+Date:   Mon Feb 20 13:45:20 2023 +0800
+
+    Merge pull request #45 from trustedweb-dev/ntt-82-test-only
+    
+    Ntt 82 test only
+
+commit 837d7e0d5a304df8303b99b06d3d08508f43d5d7
+Merge: 52b055d ffa213c
+Author: josephtinioYNS <108106868+josephtinioYNS@users.noreply.github.com>
+Date:   Fri Feb 17 18:39:56 2023 +0800
+
+    Merge pull request #40 from trustedweb-dev/ntt-82-evidence-test
+    
+    Update Council5_en.html
+
+commit 52b055d9d77e9a34ae82d11b578b4595abcbca8a
+Merge: 72f2b95 60a4179
+Author: josephtinioYNS <108106868+josephtinioYNS@users.noreply.github.com>
+Date:   Fri Feb 17 18:36:33 2023 +0800
+
+    Merge pull request #39 from trustedweb-dev/josephtinioYNS-patch-2
+    
+    Update title11_en.html
+
+commit 72f2b95fb6b2e2cfd79f5b179a584ccbad22e58e
+Merge: 59e0339 36ae729
+Author: josephtinioYNS <108106868+josephtinioYNS@users.noreply.github.com>
+Date:   Fri Feb 17 18:09:00 2023 +0800
+
+    Merge pull request #38 from trustedweb-dev/ntt-82-test-3
+    
+    Update Event 3_en.html
+
+commit 59e0339fa78d96958d593d134d5fc6b96890fa7c
+Merge: 48fd7fe 834bc15
+Author: josephtinioYNS <108106868+josephtinioYNS@users.noreply.github.com>
+Date:   Fri Feb 17 17:46:17 2023 +0800
+
+    Merge pull request #37 from trustedweb-dev/test-ntt-82
+    
+    Update engTitle_en.html
+
+commit 48fd7fef813283e09a937feab468050d3b35243c
+Merge: 519dd5c 7d017e5
+Author: josephtinioYNS <108106868+josephtinioYNS@users.noreply.github.com>
+Date:   Fri Feb 17 16:10:42 2023 +0800
+
+    Merge pull request #33 from trustedweb-dev/ntt-82-tes-only-2
+    
+    Update Council7_en.html
+
+commit 519dd5ca07b1929b1a76ee744aa75332dbccb32a
+Merge: dd27ecf 685c33d
+Author: josephtinioYNS <108106868+josephtinioYNS@users.noreply.github.com>
+Date:   Fri Feb 17 16:01:08 2023 +0800
+
+    Merge pull request #32 from trustedweb-dev/for-ntt-82-test-only
+    
+    Update Council7_en.html
+
+commit 4fcfd58f441887b85af3f7729d113f8c83585e75
+Merge: 6986c2c 695ad8f
+Author: josephtinioYNS <108106868+josephtinioYNS@users.noreply.github.com>
+Date:   Tue Feb 14 16:39:36 2023 +0800
+
+    Merge pull request #28 from trustedweb-dev/josephtinioYNS-patch-1
+    
+    Update Use case 1_en.html
+
+commit bc5a57ffad3cf5be1fcfdfe13dcda542ed78b210
+Merge: 263aa07 67592da
+Author: Blance <blancessanchez30@gmail.com>
+Date:   Tue Feb 14 14:31:43 2023 +0800
+
+    Merge pull request #27 from trustedweb-dev/update-article
+    
+    article edited
+
+commit 0fa86eb4fc8d4c2161d2afb373ce5ddf6dcb0998
+Merge: e57faff ac24840
+Author: josephtinioYNS <108106868+josephtinioYNS@users.noreply.github.com>
+Date:   Tue Feb 14 13:14:52 2023 +0800
+
+    Merge pull request #26 from trustedweb-dev/josephtinioYNS-patch-2
+    
+    Update Test-1-en_en.html
+
+commit 6937c5e2b74b0694397a4e21f691b580a5189d3e
+Merge: 3f2d828 824ccef
+Author: josephtinioYNS <108106868+josephtinioYNS@users.noreply.github.com>
+Date:   Tue Feb 14 11:47:45 2023 +0800
+
+    Merge pull request #25 from trustedweb-dev/josephtinioYNS-patch-1
+    
+    Update Test-1-ja_ja.html
+
+commit bc115c9d79e8c747200669c8b435e068f1ce5477
+Merge: 1daf292 76f9247
+Author: Blance <blancessanchez30@gmail.com>
+Date:   Fri Feb 10 12:00:10 2023 +0800
+
+    Merge pull request #24 from trustedweb-dev/update-article
+    
+    update article
+
+commit 4f4fd3a6555af6d8fba8ecb1257383904600d224
+Merge: 320068c a038bda
+Author: yns-ivan <115965226+yns-ivan@users.noreply.github.com>
+Date:   Tue Feb 7 17:28:40 2023 +0900
+
+    Merge pull request #23 from trustedweb-dev/test-update
+    
+    test update
+
+commit 674eb718e6688b717b28db98c46741f133e33529
+Merge: 0c4cf0c 7bcb79e
+Author: yns-ivan <115965226+yns-ivan@users.noreply.github.com>
+Date:   Tue Feb 7 17:10:39 2023 +0900
+
+    Merge pull request #22 from trustedweb-dev/test-update
+    
+    Test PR Merge
+
+commit 0c4cf0c654031af26409a6d9e48608743ff89575
+Merge: 731939a bdbfafc
+Author: yns-ivan <115965226+yns-ivan@users.noreply.github.com>
+Date:   Tue Feb 7 16:38:56 2023 +0900
+
+    Merge pull request #21 from trustedweb-dev/test-update
+    
+    test html update
+
+commit 0c65fea89aa330e3c74de28ebf957f38ed5a3051
+Merge: bf49671 2f9e28d
+Author: Blance <blancessanchez30@gmail.com>
+Date:   Fri Feb 3 16:32:25 2023 +0800
+
+    Merge pull request #20 from trustedweb-dev/develop
+    
+    Merge `develop` branch to `main`
+
+commit 2f9e28d23ff70e6bc3cc20be8ec79730d56e1239
+Merge: c078278 96f862b
+Author: Blance <blancessanchez30@gmail.com>
+Date:   Fri Feb 3 13:46:32 2023 +0800
+
+    Merge pull request #19 from trustedweb-dev/NTT-36
+    
+    NTT-36 [UserStory] Update [update-microcms.js] Script
+
+commit 9834c6de6204d7c65ed1925990ae213f536a24ca
+Merge: 82ae89a 302ba4f
+Author: josephtinioYNS <josephchristiantinio.yns@gmail.com>
+Date:   Thu Feb 2 16:42:14 2023 +0800
+
+    Merge branch 'NTT-36' of github.com:trustedweb-dev/tw-articles into NTT-36
+
+commit c078278819890de1b7da03fe5bb79f37574954de
+Merge: bf49671 34a654b
+Author: yns-ivan <115965226+yns-ivan@users.noreply.github.com>
+Date:   Thu Feb 2 10:01:21 2023 +0900
+
+    Merge pull request #17 from trustedweb-dev/NTT-30
+    
+    NTT-30 [UserStory] Create Github Action That Will Trigger When a PR is Merged
+
+commit a0242fdad3f86299e2132a9062c98cc16b70c160
+Merge: 958a931 8788661
+Author: josephtinioYNS <josephchristiantinio.yns@gmail.com>
+Date:   Wed Feb 1 17:26:50 2023 +0800
+
+    Merge branch 'NTT-30' of github.com:trustedweb-dev/tw-articles into NTT-30
+
+commit 87886611ac997c906e20089469c59ec600d1b958
+Merge: 0df87a5 a73d4a7
+Author: josephtinioYNS <108106868+josephtinioYNS@users.noreply.github.com>
+Date:   Wed Feb 1 15:22:01 2023 +0800
+
+    Merge pull request #18 from trustedweb-dev/josephtinioYNS-patch-1
+    
+    Update new-file-test-1
+
+commit 0df87a523bc9934bc3d5d87d569b3d2eca31d8fb
+Merge: e23d115 08772df
+Author: josephtinioYNS <108106868+josephtinioYNS@users.noreply.github.com>
+Date:   Wed Feb 1 14:55:33 2023 +0800
+
+    Merge pull request #16 from trustedweb-dev/josephtinioYNS-patch-3
+    
+    Update new-file-test-1
+
+commit e23d1157318b9065f46a0129dd9c27b05185a573
+Merge: dd2106d 726fe1d
+Author: josephtinioYNS <josephchristiantinio.yns@gmail.com>
+Date:   Wed Feb 1 14:54:25 2023 +0800
+
+    Merge branch 'NTT-30' of github.com:trustedweb-dev/tw-articles into NTT-30
+
+commit 726fe1d349b7a67cc7265284d588e87f44f3c147
+Merge: d990e72 8a8b871
+Author: josephtinioYNS <108106868+josephtinioYNS@users.noreply.github.com>
+Date:   Wed Feb 1 14:53:33 2023 +0800
+
+    Merge pull request #15 from trustedweb-dev/josephtinioYNS-patch-2
+    
+    Rename new-file to new-file-test-1
+
+commit d990e72a7974449fffd788f7874264a1e92ebc57
+Merge: 3ce3093 9082441
+Author: josephtinioYNS <josephchristiantinio.yns@gmail.com>
+Date:   Wed Feb 1 14:52:37 2023 +0800
+
+    Merge branch 'NTT-30' of github.com:trustedweb-dev/tw-articles into NTT-30
+
+commit 908244183eae8376c5d1f914d8348bc9e077d5f7
+Merge: 78ca4fd 450f428
+Author: josephtinioYNS <108106868+josephtinioYNS@users.noreply.github.com>
+Date:   Wed Feb 1 14:33:47 2023 +0800
+
+    Merge pull request #14 from trustedweb-dev/josephtinioYNS-patch-1
+    
+    Create new-file
